@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>AteefaAteeque</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+
+  </head>
+	
+  <body>
+		<div class="icon-bar">
+		 
+			<a href="https://www.linkedin.com/in/ateefa-ateeque-784637165" class="linkedin"><i class="fa fa-linkedin"></i></a>
+			<a href="https://twitter.com/AteefaAteeque" class="twitter"><i class="fa fa-twitter"></i></a> 	
+			<a href="#idThree" class="lang">lang</a>
+			<a href="#idFour" class="poem">poem</a>
+
+		
+		</div>
+
+		<div class="content">
+			<div class="row">
+					<svg viewBox="0 0 960 300">
+							<symbol id="s-text">
+							<text text-anchor="middle" x="50%" y="80%">atifaAteeque</text>
+						</symbol>
+						<g class = "g-ants">
+							<use xlink:href="#s-text" class="text-copy"></use>
+							<use xlink:href="#s-text" class="text-copy"></use>
+							<use xlink:href="#s-text" class="text-copy"></use>
+							<use xlink:href="#s-text" class="text-copy"></use>
+							<use xlink:href="#s-text" class="text-copy"></use>
+						</g>
+					</svg>
+			</div>
+		</div>
+
+		<section class="one">
+			<div class="wrapper">
+				<div class="myOne">
+					<p>
+						Know Me!
+					</p>
+					<h1 class="ml13">I am Ateefa Ateeque I am a Coder who Loves to Write(what?) ;)</h1>
+					<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+					<br>
+					<div>
+						I Like to be with Enthusiastic and skilled people<br>
+						I am a pretty straight forward person with a very sensitive nature..Yahh rear combination.<br>
+						<span style="color:rgb(182, 43, 82);"><b>I like coding, writing, learning and hell lot of Masti!.<b><br></span>
+						I'm never at same pace doing same shitty things I like exploring new things and find my interest<br>
+						what's my favorite pass time...?<br>
+						Actually Nothing i'm a moody person.<br>
+						<span style="color:rgb(182, 43, 82);"><b>For me my Family and Friend will always be my priority.</b><br></span>
+						yeah that's Y, I don't make friends so easily.Well I tend to know someone before I let in.<br>
+						<span style="color:rgb(182, 43, 82);"><b>Does that make me Judgy ??</b><br></span>
+						Hell Yeah.!! I Am.
+					</div>
+				</div>
+				
+			</div>
+		</section>
+		
+		<section class="two">
+			<div class="wrapper">
+				<div class="row">
+
+				<div class="col-md-4" class="col-lg-4 col-sm-6 col-md-6">
+				<div class="card" style="max-width: 100%;">
+				<div class="card-body">
+				<h4 class="card-title">Code</h4>
+				<h6 class="card-subtitle text-muted">I'm not a great programmer; I'm just a good programmer with great habits.<br>-kent becky</h6>
+				</div>
+				<img src="/images/code.jpg" alt="Avatar" style="width:100%;height:auto;">
+				<div class="card-body">
+				<p class="card-text">M a Coder.</p>
+				</div>
+				</div>
+				</div>
+				<div class="col-md-4" class = "col-lg-4 col-sm-6 col-md-6">
+				<div class="card" style="max-width: 100%;">
+				<div class="card-body">
+				<h4 class="card-title">Hello!</h4>
+				<h6 class="card-subtitle text-muted">Meet Me!</h6>
+				</div>
+				<img src="/images/ateefa.jpg" alt="Avatar" style="width:100%;height:auto;">
+				<div class="card-body">
+				<p class="card-text">M a student</p>
+				</div>
+				</div>
+				</div>
+				<div  class="col-md-4" class="col-lg-4 col-sm-6 col-md-6">
+				<div class="card" style="max-width: 100%;">
+				<div class="card-body">
+				<h4 class="card-title">SoftSkills</h4>
+				<h6 class="card-subtitle text-muted">Be yourself! Don’t try to fabricate your personality in the guise of impressing others.</h6>
+				</div>
+				<img src="/images/write.jpg" alt="Avatar" style="width:100%;height:auto;">
+				<div class="card-body">
+				<p class="card-text">M a Writer</p>
+				</div>
+				</div>
+				</div>
+				</div>
+			</section>
+
+		<section class="three" id ="idThree">
+			<div class="wrapper">
+				<h1>
+					<code style="color:white;">
+					Languages I know :-)
+					</code>
+				</h1>
+			<div class="row">
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<div class="card pmd-card bg-dark text-white text-center overlay-card">
+					<!-- Background Image -->
+					<img src="/images/python.jpg" class="pmd-card-media" style="width:100%;height:auto;">
+					
+					<!-- Text Overlay -->
+					<div class="card-img-overlay">
+						<h2 class="card-title">PYTHON</h2>
+						<p class="card-text">Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered.</p>
+					</div>
+				</div>
+				</div>
+
+
+				<div class="col-lg-4 col-md-4 col-sm-6">
+					<div class="card pmd-card bg-dark text-white text-center overlay-card">
+					<!-- Background Image -->
+					<img src="/images/java.jpg" class="pmd-card-media" style="width:90%;height:auto;">
+					
+
+					<!-- Text Overlay -->
+					<div class="card-img-overlay">
+						<h2 class="card-title">JAVA</h2>
+						<p class="card-text">The evolution may compromise Java's claim of being simpler than C++ ,but my guess is that effort will make Java a better language than its today.</p>
+					</div>
+				</div>
+				</div>
+					<div class="col-lg-4 col-md-4 col-sm-6">
+					<div class="card pmd-card bg-dark text-white text-center overlay-card">
+					<!-- Background Image -->
+					<img src="/images/c.jpg" class="pmd-card-media" style="width:100%;height:auto;">
+					
+					<!-- Text Overlay -->
+					<div class="card-img-overlay">
+						<h2 class="card-title">C/Cpp</h2>
+						<p class="card-text">#include to find the standard header called and add it to this program. In C, you often have to pull in extra optional components when you need them.No shitty automations</p>
+					</div>
+				</div>
+				</div>
+				</div>
+				<br>
+				<div class="row">
+					<div class="col-md-2"></div>
+					<div class="col-md-8">
+				<div class="card pmd-card bg-dark text-white text-center overlay-card">
+					<!-- Background Image -->
+					<img src="/images/hcj.png" class="pmd-card-media" style="width:100%;height:auto;">
+					
+					<!-- Text Overlay -->
+					<div class="card-img-overlay">
+						<h2 class="card-title">HTML CSS JS</h2>
+						<p class="card-text" >Div tag - Inspires me everytime<br>(keep things together).</p><br>-Ateefa
+					</div>
+				</div>
+				</div>
+				<div class="col-md-2"></div>
+				</div>
+				</div>
+		</section>
+
+
+		<section class="four" id="idFour">
+			<div class="wrapper">
+				<h1 class="ml9" style="text-align: center;color:white;">
+				<span class="text-wrapper">
+					<span class="letters">Some of My Poems</span>
+				</span>
+			</h1>
+
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+				<div class="row">
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<div class="card pmd-card">
+							<div class="card-header">
+								<h6 class="card-title">Never Have I Expected</h6>
+							</div>
+							<div class="card-body">
+									<p class="card-text"><h5>
+										The day we met,in your eyes I was reflected, <br>
+										never have I expected<br>
+										Not a day will pass we r not connected ,<br>
+										Not a single text of mine was neglected <br>
+										It was overwhelming the way they were respected,<br>
+										<br>
+
+										Things slowly started changing<br>
+										Wasn't sure but some thing was draining,<br>
+										But commendably that fake face you were maintaining<br>
+										<br>
+
+										Never have I expected I'll be cheated upon,<br>
+										Cos you were great and filled with add ons<br>
+										You were smart and the trap was beautifully drawn,<br>
+										I got stuck in your word pawn<br>
+										<br>
+
+										Never have i expected your real phase was this dark,<br>
+										And you will be the reason behind each of my scar,<br>
+										Cos of you,  I lost my silver star<br>
+										You left me hanging taking this far,<br>
+										Ohh shit such a mother fu****  you are,<br>
+										<br>
+
+										I can never trust anyone ,and you the reason,<br>
+										It's pouring for me in this dry season,<br>
+										Oh I never wanna see you again,<br>
+										Never have I expected you'll put me in pain.<br>
+ 									</h5></p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<div class="card pmd-card">
+							<div class="card-header">
+									<h6 class="card-title">Text Me Back</h6>
+							</div>
+							<div class="card-body">
+									<p class="card-text">
+										<h5>
+										It hurts when I text you and u don't text me back<br>
+										It feels our bond have slacked,and I start imagining cracks<br>
+										<br>
+										Realizing me You say I won't do it again though<br>
+										And I'm again stuck in that dump show<br>
+										Winking you hoping for the best ,<br>
+										Ohh no silly me still hoping for a feedback<br>
+										With all my imaginary claque,<br>
+										without expecting it will again turn black<br>
+										<br>
+										Scared of losing a friend ,no I don't want to face another end<br>
+										With whom then I'll enlighten my weekend<br>
+										And how I'll see our thoughts facing blend,<br>
+										<br>
+										It's sad seeing you changing,<br>
+										Can't explain ,but it's disappointing<br>
+										<br>
+										Well I may ran a race again<br>
+										To make it again a sweet cane....<br>
+										<h5>
+										</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<div class="card pmd-card">
+							<div class="card-header">
+									<h6 class="card-title">Ateefa Writes</h6>
+							</div>
+							<div class="card-body">
+									<p class="card-text">
+										<h5>
+										I'm kinda out of my mind,<br>
+										Eyes have gone colour-blind,<br>
+										Hundreds of things to hide ,<br>
+										Behind these words <br>
+										come try and find<br>
+										Never wrote anything before ,<br>
+										These days loving to be alone,<br>
+										Pampering oneself in salon,<br>
+										And I know it's not going to go too long,<br>
+										So many things to do, all I forgot ,<br>
+										Would like to be always uncaught.<br>
+										It's been an endeavoring thought,<br>
+										Oh my life what next you've got,<br>
+										Is it happiness or once again a hard drought.<br>
+										The thing which I would ever need is your support,<br>
+										And yes then no more we being lost.<br>
+										The bad times together we will toss,<br>
+										And a time will come we'll have delighted shots....
+
+										<h5>
+										</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			<br>
+			</div>
+	</section>
+
+		<section class="five">
+			<div class="wrapper">
+				<div class="row">
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<div class="card pmd-card">
+							<div class="card-header">
+									<h6 class="card-title">Falling Again</h6>
+							</div>
+							<div class="card-body">
+									<p class="card-text">
+										<h5>
+										Yeh im so excited,someone got that light again ignited,<br>
+										He too seemed down for me ,a bit more slighted,<br>
+										There is an empty room in my heart too and you r invited,<br>
+										Again I cant see and you got me blinded,<br>
+										<br>
+										I hope its true and you feel it too,<br>
+										Tell me bae tell me is it true before i fall for you,<br>
+										Its easy forgetting now and ill cut it through,<br>
+										I have been here before let me tell you,<br>
+										No I dont wanna lie to you....<br>
+										<br>
+										Yes! He said. He'll love me too,<br>
+										I look him he look me and we redo,<br>
+										Its going good and I have a preview,<br>
+										We sit every time and decide avenue and go through,<br>
+										Its going good and im excited ,<br>
+										Some got me again and im delighted.....<br>
+										<h5>
+									</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<div class="card pmd-card">
+							<div class="card-header">
+									<h6 class="card-title">Crush</h6>
+							</div>
+							<div class="card-body">
+									<p class="card-text">
+										<h5>
+										As I  see a room full of people I always look for u first,<br>
+										When I fail to find you my mind gets disturb ,<br>
+										it's a moment of disgust and I try to adjust<br>
+										I wouldn't mind if it's u and me just,<br>
+										<br>
+										I stare at you when you are not looking<br>
+										It's tempting to think you and me hooking<br>
+										Sitting in a nice place enjoying a pudding <br>
+										I quitly pinch my self just for ensuring.<br>
+										Your word and presence is always curing,<br>
+										<br>
+										When you text me it excites me<br>
+										After few minutes I realise it's only me who is typing<br>
+										I know u r a hopeless crush<br>
+										In next few months it's all going to flush<br>
+										Then we will be in our life and in our own rush...<br>
+										May be the day when we'll meet again I'll again blush<br>
+										Everything and everyone will again turn to mush.<br>
+										<h5>
+									</p>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-sm-12 col-md-4 col-lg-4">
+						<div class="card pmd-card">
+							<div class="card-header">
+									<h6 class="card-title">Not Me</h6>
+							</div>
+							<div class="card-body">
+									<p class="card-text">
+										<h5>
+										I knew I am not as perfect as she is<br>
+										Still a race started and I never wanted this<br>
+										It will end black with a broken heart of his<br>
+										Irrespective of who lose and who wins<br>
+										<br>
+										Trust me it was not me but my heart which had envy<br>
+										I was away and never into this dirty game<br>
+										Which I knew will end up with heads down in shame<br>
+
+										<br>
+										It's true I wanted that last name,<br>
+										Which set my heart on flame<br>
+										And then that cheap game begin<br>
+										<br>
+
+										I was Aware I'll lose my place in any case,<br>
+										After the last play of her ace<br>
+										You will start hating me with no grace<br>
+										It's going to finish and get erased.<br>
+										And those memories of me and you only I'll trace<br>
+										And embrace .....<br>
+
+										<h5>
+										</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			<br>
+			<div class="myOne">
+						Thanks for visiting My site.<br>
+						Do Check out My linkedIn Profile to know more about me.<br>
+						<span style="color:rgb(182, 43, 82);"><b>Just Know one thing.<b><br></span>
+						This world is way too big and u can be whatever u want.<span style="color:rgb(182, 43, 82);"><b>Be Kind.<b></span>The World needs More of kindness.<br>
+						I would love if u tell me how do you like this site.It took long hours for me to create it.<br>
+						Stay Connected.<br>
+						<span style="color:rgb(182, 43, 82);"><b>I find this virtual connections a beautiful way to connect but cant replace in person bondings!.</b><br></span>
+						<span style="color:rgb(182, 43, 82);"><b>Rock ur life You've only got one to keep </b><br></span>
+						Give love who loves you and who values you, thats not an easy thing to get :p
+					</div>
+			</div>
+		</section>
+
+
+    <script src="script.js"></script>
+		<script src="https://code.responsivevoice.org/responsivevoice.js?key=jb3FtLm2"></script>
+  </body>
+</html>
